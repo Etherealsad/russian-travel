@@ -1,0 +1,6 @@
+.place__column {
+    display: flex;
+    max-width: 484px;
+    box-sizing: border-box;
+    flex-direction: column;
+}

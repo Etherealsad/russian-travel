@@ -1,0 +1,20 @@
+.header__lang-link-underline {
+    width: 30px;
+    height: 28px;
+    text-decoration: underline;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+    text-align: right;
+    color: #ffffff;
+    margin: 0;
+}
+@media screen and (min-width: 320px) and (max-width: 767px) {
+    .header__lang-link-underline {
+        width: 22px;
+        height: 20px;
+        font-size: 18px;
+        line-height: 20px;
+    }
+}

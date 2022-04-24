@@ -1,0 +1,10 @@
+.place__web-url {
+    color: #FFF;
+    margin: 0;
+    display: block;
+    box-sizing: border-box;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    text-decoration: underline;
+}
