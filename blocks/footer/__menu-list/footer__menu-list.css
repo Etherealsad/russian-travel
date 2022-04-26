@@ -7,4 +7,7 @@
         margin-top: 32px;
         margin-right: 0;
     }
+    .footer__menu-list:first-child {
+        margin-top: 0;
+    }
 }

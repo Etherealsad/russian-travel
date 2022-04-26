@@ -1,5 +1,5 @@
 .lead__img {
-width: 100%;
+max-width: 984px;
 object-fit: contain;
 margin-right: auto;
 margin-left: auto;
@@ -15,7 +15,7 @@ object-position: center;
 
 @media screen and (min-width: 768px) and (max-width: 1023px) {
     .lead__img {
-        max-width: 768px;
+        max-width: 100%;
         max-height: 480px;
     }
 }
