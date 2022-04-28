@@ -8,3 +8,11 @@
     line-height: 22px;
     text-decoration: underline;
 }
+
+.place__web-url:visited {
+    color: white;
+}
+
+.place__web-url:hover {
+    opacity: 0.8;
+}

@@ -1,0 +1,11 @@
+.header__lang_selected {
+    text-decoration: underline;
+}
+@media screen and (min-width: 320px) and (max-width: 767px) {
+    .header__lang_selected {
+        width: 22px;
+        height: 20px;
+        font-size: 18px;
+        line-height: 20px;
+    }
+}
